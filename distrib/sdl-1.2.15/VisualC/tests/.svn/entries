@@ -1,0 +1,132 @@
+10
+
+dir
+2
+svn://10.3.0.131/android_qemu/distrib/sdl-1.2.15/VisualC/tests
+svn://10.3.0.131/android_qemu
+
+
+
+2013-11-28T07:24:59.346858Z
+1
+wz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+be65ca97-37ec-0410-8ca7-d802bbff1265
+
+loopwave
+dir
+
+testwin
+dir
+
+tests.sln
+file
+
+
+
+
+2013-12-05T07:41:14.131322Z
+a412cd7c3b361780858bcfff7563b7ad
+2013-11-28T07:24:59.346858Z
+1
+wz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5916
+
+testpalette
+dir
+
+testvidinfo
+dir
+
+tests.dsw
+file
+
+
+
+
+2013-12-05T07:41:14.131322Z
+4595845dde90e37f9faabc4af3145031
+2013-11-28T07:24:59.346858Z
+1
+wz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2641
+
+testfile
+dir
+
+testjoystick
+dir
+
+graywin
+dir
+
+testgamma
+dir
+
+testgl
+dir
+
+testwm
+dir
+
+testplatform
+dir
+
+testalpha
+dir
+

@@ -1,0 +1,37 @@
+10
+
+dir
+2
+svn://10.3.0.131/android_qemu/distrib/sdl-1.2.15/Xcode/TemplatesForXcodeLeopard
+svn://10.3.0.131/android_qemu
+
+
+
+2013-11-28T07:24:59.346858Z
+1
+wz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+be65ca97-37ec-0410-8ca7-d802bbff1265
+
+SDL Application
+dir
+
+SDL Cocoa Application
+dir
+
+SDL OpenGL Application
+dir
+

@@ -1,0 +1,27 @@
+---- tlb_flush Matches (26 in 11 files) ----
+Exec-all.h:void tlb_flush(CPUState *env, int flush_global);
+Exec.c:    tlb_flush(env, 1);
+Exec.c:void tlb_flush(CPUState *env, int flush_global)
+Exec.c:    printf("tlb_flush:\n");
+Exec.c:void tlb_flush(CPUState *env, int flush_global)
+Exec.c:        tlb_flush(env, 1);
+Hax-all.c (target-i386):    tlb_flush(env, 1);
+Helper.c (target-arm):    tlb_flush(env, 1);
+Helper.c (target-arm):            tlb_flush(env, 1);
+Helper.c (target-arm):        tlb_flush(env, 1); /* Flush TLB as domain not tracked in TLB */
+Helper.c (target-arm):            tlb_flush(env, 0);
+Helper.c (target-arm):            tlb_flush(env, val == 0);
+Helper.c (target-arm):            tlb_flush(env, 1);
+Helper.c (target-arm):              tlb_flush(env, 1);
+Helper.c (target-arm):              tlb_flush(env, 0);
+Helper.c (target-i386):    tlb_flush(env, 1);
+Helper.c (target-i386):        tlb_flush(env, 1);
+Helper.c (target-i386):        tlb_flush(env, 1);
+Helper.c (target-i386):        tlb_flush(env, 0);
+Helper.c (target-i386):        tlb_flush(env, 1);
+Kqemu.c:        tlb_flush(env, 1);
+Machine.c (target-i386):    tlb_flush(env, 1);
+Machine.c (target-mips):    tlb_flush(env, 1);
+Op_helper.c (target-i386):            tlb_flush(env, 1);
+Op_helper.c (target-mips):    tlb_flush (env, flush_global);
+Translate.c (target-mips):    tlb_flush(env, 1);

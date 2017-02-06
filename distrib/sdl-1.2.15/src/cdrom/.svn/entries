@@ -1,0 +1,141 @@
+10
+
+dir
+2
+svn://10.3.0.131/android_qemu/distrib/sdl-1.2.15/src/cdrom
+svn://10.3.0.131/android_qemu
+
+
+
+2013-11-28T07:24:59.346858Z
+1
+wz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+be65ca97-37ec-0410-8ca7-d802bbff1265
+
+macosx
+dir
+
+openbsd
+dir
+
+dummy
+dir
+
+SDL_syscdrom.h
+file
+
+
+
+
+2013-12-05T07:41:12.043322Z
+25e507e3ea2845d04bd77672683eb5b4
+2013-11-28T07:24:59.346858Z
+1
+wz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2492
+
+linux
+dir
+
+win32
+dir
+
+macos
+dir
+
+os2
+dir
+
+qnx
+dir
+
+mint
+dir
+
+freebsd
+dir
+
+aix
+dir
+
+bsdi
+dir
+
+dc
+dir
+
+osf
+dir
+
+SDL_cdrom.c
+file
+
+
+
+
+2013-12-05T07:41:12.043322Z
+b1cd7b7d2cf460ffaa9410b2ed5c0bc0
+2013-11-28T07:24:59.346858Z
+1
+wz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7484
+
+beos
+dir
+
