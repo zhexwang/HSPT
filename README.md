@@ -1,6 +1,5 @@
 # HSPT
 HSPT: Practical Implementation and Efficient Management of Embedded Shadow Page Tables for Cross-ISA System Virtual Machines (See Paper VEE'15)
-
 <br /> http://dl.acm.org/citation.cfm?id=2731188&CFID=986069799&CFTOKEN=34911294 <br />
 
 # Abstract
