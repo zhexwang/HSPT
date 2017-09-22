@@ -1,4 +1,4 @@
-# HSPT ![build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+# HSPT ![build](https://img.shields.io/badge/build-passing-brightgreen.svg) ![deploy](https://img.shields.io/badge/deploy-success-brightgreen.svg)
 HSPT: Practical Implementation and Efficient Management of Embedded Shadow Page Tables for Cross-ISA System Virtual Machines (See [Paper](http://dl.acm.org/citation.cfm?id=2731188&CFID=986069799&CFTOKEN=34911294) VEE'15)
 
 # Abstract
